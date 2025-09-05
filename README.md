@@ -3,8 +3,12 @@
   
 
 
+
+
 This project demonstrates how to host a static website on AWS S3 
               with CloudFront CDN and Route 53 DNS.
+
+
 
 
 
@@ -19,11 +23,18 @@ This project demonstrates how to host a static website on AWS S3
 
 
 
+
+ 
+ 
  Project Overview
        Frontend: **Static HTML files**.
        Storage: **AWS S3** (bucket stores website files)
        CDN: **CloudFront** (distributes content globally)
        DNS: **Route 53** (maps domain name to CloudFront)
+
+
+
+
 
 
   
