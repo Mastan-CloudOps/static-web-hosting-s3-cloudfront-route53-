@@ -1,13 +1,17 @@
-  Static Website Hosting on AWS (S3 + CloudFront + Route 53)
+                Static Website Hosting on AWS (S3 + CloudFront + Route 53)
 
 This project demonstrates how to host a static website on AWS S3 with CloudFront CDN and Route 53 DNS.
+
 
 Project Structure
 
 ├── README.md
+
 └── website
-    ├── index.html
-    └── error.html
+
+  ├── index.html
+    
+  └── error.html
 
 Project Overview
        Frontend: Static HTML files.
